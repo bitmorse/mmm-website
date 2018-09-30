@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Mini Mobile Makerspace
 
-You can use the [editor on GitHub](https://github.com/bitmorse/mmm-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Solder, measure, 3D print and prototype in one place. 
+Make anything!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Requires only 0.3m2 of surface. 
+ 
+Ideal for classrooms from secondary schools to universities. 
+Students can explore on 
+their own.
 
-### Markdown
+Includes online reservation 
+system with login.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Configuration
 
-```markdown
-Syntax highlighted code block
+* Basic Structure (including Frame, Wheels, Lock, Light, Software, 230V Supply and setup at your location), 1200 Fr.
+* 3D Printer, 950 Fr.
+* Soldering Station, 200 Fr.
+* Hot Air Reflow Station, 100 Fr.
+* Oscilloscope, 500 Fr.
+* Multimeter, 100 Fr.
+* Lab Power Supply, 70 Fr.
+* Signal Generator, 50 Fr.
+* Electronic Prototyping Parts (Resistors, Capacitors, LEDs, Sensors, 10 x Arduino Nano, 1 x Raspberry Pi), 400 Fr.
+* Woodworking Tools (Saw, Sandpaper, File set, etc), 300 Fr.
+* Drill, 200 Fr.
+* Hand Tools (Screwdrivers, Wrenches, Bit set, etc), 300 Fr.
+* Measurement Devices (Caliper, Ruler, etc), 200 Fr.
+* Hot Glue Gun, 40 Fr.
+* Customisation (e.g. Physics, Chemistry or Biology Experiments, Papeterie, etc.), contact us
+* Yearly maintenance, 300 Fr (excl. consumables replacement)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Request Offer
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bitmorse/mmm-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To receive a free and non-binding offer, or a personal demonstration, please contact:
+mmm@octanis.ch
