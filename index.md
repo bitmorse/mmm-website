@@ -35,4 +35,10 @@ system with login.
 ### Request Offer
 
 To receive a free and non-binding offer, or a personal demonstration, please contact:
-info@octanis.ch / 079 282 61 60
+info@octanis.ch 
+
+### Contact
+M. Raffael Tschui
+Tel. +41 79 282 61 60
+Octanis Association
+1004 Lausanne
