@@ -1,4 +1,4 @@
-## Mini Mobile Makerspace
+## Mini Mobile Makerspace by Octanis Switzerland
 
 Solder, measure, 3D print and prototype in one place. 
 Make anything!
