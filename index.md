@@ -35,4 +35,4 @@ system with login.
 ### Request Offer
 
 To receive a free and non-binding offer, or a personal demonstration, please contact:
-mmm@octanis.ch
+info@octanis.ch / 079 282 61 60
