@@ -39,6 +39,9 @@ info@octanis.ch
 
 ### Contact
 M. Raffael Tschui
+
 Tel. +41 79 282 61 60
+
 Octanis Association
+
 1004 Lausanne
